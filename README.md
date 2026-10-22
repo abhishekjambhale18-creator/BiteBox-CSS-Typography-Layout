@@ -67,4 +67,4 @@ It includes CSS reset, navigation styles, hero backgrounds, typography, and butt
 ---
 
 **Series Navigation**  
-← [Lab 10 – CSS Basics](https://github.com/abhishekjambhale18-creator/BiteBox-CSS-Reset-Navigation) | Next Lab Coming Soon →
+← [Lab 10 – CSS Basics](https://github.com/abhishekjambhale18-creator/BiteBox-CSS-Reset-Navigation) | [Lab 12 – UI Components & Full CSS](https://github.com/abhishekjambhale18-creator/BiteBox-UI-Components-Structure) →
